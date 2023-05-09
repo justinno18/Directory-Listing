@@ -13,3 +13,5 @@ Run the script using the command:
 ```
 python3 main.py
 ```
+
+IMPORTANT! This code runs only on kali linux.
